@@ -1,0 +1,182 @@
+[ INFO] 2015-04-12 14:12:54,041 [] [] FTP server started
+[ INFO] 2015-04-12 14:13:17,021 [] [] FTP server started
+[ INFO] 2015-04-12 14:13:22,678 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:13:23,039 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:13:23,050 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:13:24,383 [] [127.0.0.1] RECEIVED: USER aaa
+[ INFO] 2015-04-12 14:13:24,387 [aaa] [127.0.0.1] SENT: 331 User name okay, need password for aaa.
+
+[ INFO] 2015-04-12 14:13:26,175 [aaa] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:13:26,178 [aaa] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:13:26,678 [aaa] [127.0.0.1] Login failure - aaa
+[ INFO] 2015-04-12 14:13:26,681 [aaa] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:14:14,435 [aaa] [127.0.0.1] RECEIVED: QUIT
+[ INFO] 2015-04-12 14:14:14,444 [aaa] [127.0.0.1] SENT: 221 Goodbye.
+
+[ INFO] 2015-04-12 14:14:14,446 [aaa] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:15:07,191 [] [] FTP server started
+[ INFO] 2015-04-12 14:15:13,938 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:15:14,527 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:15:14,539 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:15:15,747 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:15:15,750 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:15:17,547 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:15:17,550 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:15:18,050 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:15:18,052 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:15:28,128 [user] [127.0.0.1] RECEIVED: QUIT
+[ INFO] 2015-04-12 14:15:28,150 [user] [127.0.0.1] SENT: 221 Goodbye.
+
+[ INFO] 2015-04-12 14:15:28,151 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:15:33,236 [] [] FTP server started
+[ INFO] 2015-04-12 14:15:37,630 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:15:38,229 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:15:38,246 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:15:40,539 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:15:40,543 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:15:42,458 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:15:42,459 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:15:42,959 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:15:42,962 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:18:09,530 [user] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:18:09,532 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:18:12,359 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:18:12,359 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:18:12,860 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:18:12,863 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:18:15,128 [user] [127.0.0.1] RECEIVED: QUIT
+[ INFO] 2015-04-12 14:18:15,136 [user] [127.0.0.1] SENT: 221 Goodbye.
+
+[ INFO] 2015-04-12 14:18:15,137 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:18:35,377 [] [] FTP server started
+[ INFO] 2015-04-12 14:19:10,735 [] [] FTP server started
+[ INFO] 2015-04-12 14:19:13,934 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:19:14,502 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:19:14,519 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:19:15,593 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:19:15,596 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:19:18,632 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:19:18,635 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:19:19,135 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:19:19,137 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:19:36,768 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:19:40,264 [] [] FTP server started
+[ INFO] 2015-04-12 14:19:48,177 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:19:48,789 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:19:48,806 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:19:49,810 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:19:49,814 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:19:51,366 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:19:51,369 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:19:51,869 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:19:51,871 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:24:51,890 [user] [127.0.0.1] IDLE
+[ INFO] 2015-04-12 14:24:51,890 [user] [127.0.0.1] Session idle, closing
+[ INFO] 2015-04-12 14:24:51,892 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:37:23,050 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:37:23,050 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:37:23,051 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:37:28,018 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:37:28,020 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:37:30,951 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:37:30,951 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:37:31,451 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:37:31,453 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:37:35,051 [user] [127.0.0.1] RECEIVED: USER admin
+[ INFO] 2015-04-12 14:37:35,053 [admin] [127.0.0.1] SENT: 331 User name okay, need password for admin.
+
+[ INFO] 2015-04-12 14:37:36,626 [admin] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:37:36,626 [admin] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:37:37,126 [admin] [127.0.0.1] Login failure - admin
+[ INFO] 2015-04-12 14:37:37,127 [admin] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:37:39,071 [admin] [127.0.0.1] RECEIVED: QUIT
+[ INFO] 2015-04-12 14:37:39,073 [admin] [127.0.0.1] SENT: 221 Goodbye.
+
+[ INFO] 2015-04-12 14:37:39,073 [admin] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:39:15,144 [] [] FTP server started
+[ INFO] 2015-04-12 14:39:18,709 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:39:19,006 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:39:19,015 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:39:20,275 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:39:20,278 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:39:21,710 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:39:21,713 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:39:22,213 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:39:22,215 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:39:52,011 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:39:52,011 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:39:52,012 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:39:52,013 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:39:52,014 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:39:52,014 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:39:52,015 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:39:52,515 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:39:52,518 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:39:52,519 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:40:31,035 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:40:35,905 [] [] FTP server started
+[ INFO] 2015-04-12 14:40:42,201 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:40:42,498 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:40:42,509 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:40:42,510 [] [127.0.0.1] RECEIVED: USER user
+[ INFO] 2015-04-12 14:40:42,512 [user] [127.0.0.1] SENT: 331 User name okay, need password for user.
+
+[ INFO] 2015-04-12 14:40:42,512 [user] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:40:42,514 [user] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:40:43,014 [user] [127.0.0.1] Login failure - user
+[ INFO] 2015-04-12 14:40:43,017 [user] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:40:43,017 [user] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:40:57,140 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:40:57,140 [user] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:40:57,142 [user] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:40:57,142 [user] [127.0.0.1] RECEIVED: USER admin
+[ INFO] 2015-04-12 14:40:57,143 [admin] [127.0.0.1] SENT: 331 User name okay, need password for admin.
+
+[ INFO] 2015-04-12 14:40:57,144 [admin] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:40:57,144 [admin] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:40:57,644 [admin] [127.0.0.1] Login failure - admin
+[ INFO] 2015-04-12 14:40:57,647 [admin] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:40:57,647 [admin] [127.0.0.1] CLOSED
+[ INFO] 2015-04-12 14:42:28,991 [] [127.0.0.1] CREATED
+[ INFO] 2015-04-12 14:42:28,992 [] [127.0.0.1] OPENED
+[ INFO] 2015-04-12 14:42:28,993 [] [127.0.0.1] SENT: 220 Service ready for new user.
+
+[ INFO] 2015-04-12 14:42:28,993 [] [127.0.0.1] RECEIVED: USER pk001
+[ INFO] 2015-04-12 14:42:28,994 [pk001] [127.0.0.1] SENT: 331 User name okay, need password for pk001.
+
+[ INFO] 2015-04-12 14:42:28,995 [pk001] [127.0.0.1] RECEIVED: PASS *****
+[ WARN] 2015-04-12 14:42:28,996 [pk001] [127.0.0.1] User failed to log in
+[ WARN] 2015-04-12 14:42:29,496 [pk001] [127.0.0.1] Login failure - pk001
+[ INFO] 2015-04-12 14:42:29,498 [pk001] [127.0.0.1] SENT: 530 Authentication failed.
+
+[ INFO] 2015-04-12 14:42:29,498 [pk001] [127.0.0.1] CLOSED
